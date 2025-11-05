@@ -19,12 +19,8 @@ We utilize the Algorand Smart Contract standard, ARC4, for the implementation of
 💧 Digital Lifecycle Management
  * plant_tree(): Only the owner (contract creator) can initiate the tree's lifecycle, setting the initial timestamp.
  * water_tree(): Updates the 'Last Watered' timestamp. This is the core mechanism indicating the tree is 'healthy' and maintained.
-
-💰 Decentralized Trading
-
  * list_for_sale(price): The owner can list the tree for sale at a specific Algo price.
  * buy_tree(buyer, payment): Automatically and securely transfers tree ownership if the payment is sufficient, reflecting peer-to-peer digital asset trading.
-🔍 On-Chain Tracking
  * get_last_watered(): Retrieve the data on when the tree was last watered (a vital indicator).
  * get_owner(): Verify the current owner of the tree.
 
