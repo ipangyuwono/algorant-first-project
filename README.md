@@ -1,6 +1,6 @@
 🌳 TreeToken: A Decentralized Digital Tree Ecosystem
 
-💡 Project Descriptiona
+💡 Project Description
 
 TreeToken is a Decentralized Digital Tree Ecosystem built on the Algorand blockchain.
 We simulate the digital lifecycle of a tree, from planting to trading. Each tree token is managed by a Smart Contract that tracks the tree's 'health' through a watering timestamp. This project explores how blockchain technology can be used to create time-based and maintenance-driven digital assets.
